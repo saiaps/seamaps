@@ -8,7 +8,7 @@ These terms come from the book [Obliquity](https://smile.amazon.com/Obliquity-Go
 
 ## High Level Objective
 
-At the top level of "why" is something bigger than any achievable goal. This is our vision statement. It's horizonal -- it can never be reached.
+At the top level of "why" is something bigger than any achievable goal. This is our vision statement. It's [horizonal](http://blog.jessitron.com/2018/04/horizonal-goals.html) -- it can never be reached.
 
 For Apple: "create great products."
 
