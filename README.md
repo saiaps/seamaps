@@ -1,5 +1,7 @@
 # Seamap: objectives, goals, necessary states, and actions
 
+There's a standalone video of this one here: https://youtu.be/RCrKh3yvJR4
+
 We're talking about software automation in a polyglot stack. For what purpose? Why software automation? Why a polyglot stack?
 
 Our purpose breaks down into levels.
